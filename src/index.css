@@ -1,6 +1,9 @@
 body {
+  height: 100vh;
   margin: 0;
   padding: 0;
+  display: flex; 
+  flex-direction: column;
   background: #2193b0;
   background: -webkit-linear-gradient(
     to right,
@@ -12,4 +15,8 @@ body {
     #6dd5ed,
     #2193b0
   );
+}
+
+footer {
+  margin-top: auto; 
 }
