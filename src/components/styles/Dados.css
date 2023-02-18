@@ -1,0 +1,20 @@
+.container-flex {
+    height: 80vh;
+}
+
+.dado {
+    height: 200px;
+    width: 200px;
+    background-color: #C20E03;
+    border-radius: 15px; 
+    margin: 20px;
+	padding: 10px;
+}
+
+.punto {
+    height: 45px;
+    width: 45px;
+    background-color: #FBF9F9;
+    border-radius: 50%;
+    margin: 5px;
+}
