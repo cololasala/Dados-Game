@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Dados-Game/static/css/main.cdffabea.css",
+    "main.css": "/Dados-Game/static/css/main.cbe9ac37.css",
     "main.js": "/Dados-Game/static/js/main.07720748.js",
     "static/media/winner.mp3": "/Dados-Game/static/media/winner.4e3d5e939a693adfbf8c.mp3",
     "index.html": "/Dados-Game/index.html",
-    "main.cdffabea.css.map": "/Dados-Game/static/css/main.cdffabea.css.map",
+    "main.cbe9ac37.css.map": "/Dados-Game/static/css/main.cbe9ac37.css.map",
     "main.07720748.js.map": "/Dados-Game/static/js/main.07720748.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdffabea.css",
+    "static/css/main.cbe9ac37.css",
     "static/js/main.07720748.js"
   ]
 }
